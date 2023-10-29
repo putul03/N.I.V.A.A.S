@@ -15,7 +15,7 @@ The Gesture and Voice-Controlled Smart Home Automation System is a project that 
 - Energy-efficient operation with motion sensors.
 - Real-time feedback and remote access.
 - Low-latency gesture recognition for seamless control.
-- Real-time hand tracking and gesture visualization (LLM - Landmark Localization Model).
+- Voice control using LLM (Large Language Model)
 - Integration with lighting, HVAC, security, and entertainment systems.
 
 ## Prerequisites
